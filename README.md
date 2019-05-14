@@ -1,8 +1,5 @@
 # Automatic-Traffic-Sign-Recognition-TSR-system-in-Real-time
 There all 12 MATLAB code files in total,including 4 help function.
-There is 1 folder including the created shapes.
-There are two MATLAB data files, which are transferred networks
-called 'Transferred AlexNet' and 'Transferred GoogleNet'.
 # These 4 help function are:
 1.createLgraphUsingConnections
 2.findLayersToReplace
