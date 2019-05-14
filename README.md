@@ -1,13 +1,12 @@
 # Automatic-Traffic-Sign-Recognition-TSR-system-in-Real-time
 There all 12 MATLAB code files in total,including 4 help function.
 # These 4 help function are:
-1.createLgraphUsingConnections
-2.findLayersToReplace
-3.freezeWeights
-4.helperCIFAR10Data
-The first three help function are associated with Transfer learning
-using GoogLeNet.
-The last help function is associated with CIFAR-10 dataset
+1.createLgraphUsingConnections.
+2.findLayersToReplace.
+3.freezeWeights.
+4.helperCIFAR10Data.
+The first three help function are associated with Transfer learning using GoogLeNet.
+The last help function is associated with CIFAR-10 dataset.
 # The rest 8 MATLAB .m files' details is below:
 1. 'DataVisual' file is used to do data visualization
 2. 'DoubleTheImbalancedData' file is used to do data augmentation.
