@@ -2,10 +2,10 @@
 This is my final year project, there are 12 MATLAB code files including 4 help functions and 8 scripts.
 
 ## Help functions:
-1.createLgraphUsingConnections.
-2.findLayersToReplace.
-3.freezeWeights.
-4.helperCIFAR10Data.
+1. createLgraphUsingConnections
+2. findLayersToReplace
+3. freezeWeights
+4. helperCIFAR10Data
 
 ## Scripts:
 1. 'DataVisual' file is used to do data visualization
